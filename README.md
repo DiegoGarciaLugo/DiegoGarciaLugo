@@ -29,7 +29,7 @@ I'm passionate about software development, technology and creating projects that
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,lua" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ### Tools & Environment
@@ -81,7 +81,7 @@ I'm passionate about software development, technology and creating projects that
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python · Java · JavaScript · HTML · CSS |
+| **Languages** | Python · Java · HTML · CSS |
 | **IDE** | VS Code · IntelliJ IDEA |
 | **Version Control** | Git · GitHub |
 | **Databases** | MySQL · SQLite |
