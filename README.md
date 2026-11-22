@@ -29,7 +29,7 @@ I'm passionate about software development, technology and creating projects that
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ### Tools & Environment
